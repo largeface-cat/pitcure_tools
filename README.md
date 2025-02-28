@@ -1,4 +1,5 @@
-# pitcure_encryption
+# pitcure_tools
+### pitcure_encryption
 A simple script to encode / decode pictures by shuffling pixels.
 
 usage: pic_encrypt.py [-h] {D,E} image_path key save_path
