@@ -1,5 +1,5 @@
 '''
-This script pixelize images by shuffling the pixels using a key. Key is the seed of the shuffle.
+This script pixelize images by doing a mean pooling operation on the image.
 '''
 from PIL import Image
 import numpy as np
